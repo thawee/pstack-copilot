@@ -2,17 +2,18 @@
   "name": "pstack",
   "private": true,
   "version": "0.9.67",
-  "description": "If you want to go fast, go deep first. pstack helps you write less, but higher quality code. rigorous agent workflows you can parallelize with confidence. Pi package of the Claude Code plugin; skills are shared, tool names resolve via skills/poteto-mode/references/pi-tools.md. Original pstack by Lauren Tan (poteto).",
+  "description": "GitHub Copilot CLI adaptation of pstack with shared skills, Copilot-specific guidance, and custom agents. Original pstack by Lauren Tan; based on Michael Denyer's pstack-claude port.",
   "author": {
     "name": "Michael Denyer",
     "url": "https://github.com/michael-denyer"
   },
-  "homepage": "https://github.com/michael-denyer/pstack-claude",
-  "repository": "https://github.com/michael-denyer/pstack-claude",
+  "homepage": "https://github.com/thawee/pstack-copilot",
+  "repository": "https://github.com/thawee/pstack-copilot",
   "license": "MIT",
   "keywords": [
     "pi-package",
     "pstack",
+    "github-copilot-cli",
     "poteto-mode",
     "workflow",
     "principles",

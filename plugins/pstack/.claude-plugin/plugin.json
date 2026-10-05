@@ -7,11 +7,12 @@
     "name": "Michael Denyer",
     "url": "https://github.com/michael-denyer"
   },
-  "homepage": "https://github.com/michael-denyer/pstack-claude",
-  "repository": "https://github.com/michael-denyer/pstack-claude",
+  "homepage": "https://github.com/thawee/pstack-copilot",
+  "repository": "https://github.com/thawee/pstack-copilot",
   "license": "MIT",
   "keywords": [
     "pstack",
+    "github-copilot-cli",
     "poteto-mode",
     "workflow",
     "principles",
